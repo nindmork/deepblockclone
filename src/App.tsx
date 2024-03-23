@@ -12,7 +12,7 @@ const App = () => {
     <BrowserRouter>
      <Navbar/>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/deepblockclone/" element={<Home />} />
       </Routes>
       <Footer/>
     </BrowserRouter>

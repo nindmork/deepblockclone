@@ -1297,7 +1297,7 @@ const Home = () => {
                                   decoding="async"
                                   width="340"
                                   height="120"
-                                  src="wp-content/uploads/2021/04/Group-616.png"
+                                  src="https://www.deepblok.io/wp-content/uploads/2021/04/Group-616.png"
                                   className="attachment-large size-large"
                                   alt=""
                                  
@@ -1374,7 +1374,7 @@ const Home = () => {
                                   decoding="async"
                                   width="340"
                                   height="120"
-                                  src="wp-content/uploads/2021/04/Group-614.png"
+                                  src="https://www.deepblok.io/wp-content/uploads/2021/04/Group-614.png"
                                   className="attachment-large size-large"
                                   alt=""
                                  
@@ -1448,7 +1448,7 @@ const Home = () => {
                                   decoding="async"
                                   width="340"
                                   height="120"
-                                  src="wp-content/uploads/2021/04/Group-615.png"
+                                  src="https://www.deepblok.io/wp-content/uploads/2021/04/Group-615.png"
                                   className="attachment-large size-large"
                                   alt=""
                                  

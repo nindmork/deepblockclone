@@ -2,8 +2,8 @@
 
 This project is for frontend developer with react testing.
 
-npm install
-npm run dev 
+- npm install
+- npm run dev 
 
 
 

@@ -1,0 +1,97 @@
+.footer-width-fixer {
+    width: 100%;
+}
+
+.elementor-element-2834b1d {
+    display: flex; 
+    justify-content: center; 
+    background-color: #ffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+    
+  
+}
+
+.elementor-element-2834b1d .elementor-container {
+    /*
+    display: flex; 
+    flex-direction: row; 
+    justify-content: flex-start; 
+    align-items: start; 
+    max-width: 1200px;
+    padding-left: 20px;
+   */
+    display: grid;
+    justify-content: flex-start; 
+    align-items: start; 
+    max-width: 1200px;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+    
+}
+
+.elementor-widget-container{
+    text-align: left; 
+    width: 400px;
+}
+
+
+.elementor-widget-container p{
+    color: #929292;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.elementor-widget-container a{
+    color: #929292;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.elementor-element-2834b1d img{
+    width: 40%;
+}
+.elementor-widget-container .elementor-icon-list-items2{
+    padding: 50px 0px 0px 0px;
+    
+
+}
+
+@media screen and (max-width: 1200px) {
+    .elementor-element-2834b1d .elementor-container {
+        grid-template-columns: repeat(1, 1fr); 
+    }
+    .elementor-element-2834b1d img{
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+    .elementor-element-2834b1d .elementor-container {
+        grid-template-columns: repeat(1, 1fr); 
+    }
+    .elementor-element-2834b1d img{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .elementor-element-2834b1d .elementor-container {
+        grid-template-columns: repeat(1, 1fr); 
+    }
+    .elementor-element-2834b1d img{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    
+    .elementor-element-2834b1d .elementor-container {
+        grid-template-columns: repeat(1, 1fr); 
+    }
+    .elementor-element-2834b1d img{
+        width: 80%;
+    }
+}
+

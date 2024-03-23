@@ -1,3 +1,15 @@
+# DeepBlockClone
+
+This project is for frontend developer with react testing.
+
+npm install
+npm run dev 
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
